@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tintodevs
-- 🌱 I’m dev in development.
-- 📫 How to reach me 
+- 🧑🏻‍💻 I’m dev in development.
 - ⚡ Fun fact:Like Barca:)
 <!---
 tintodevs/tintodevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
